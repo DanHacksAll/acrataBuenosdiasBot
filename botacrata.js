@@ -1,7 +1,7 @@
 const TelegramBot = require("node-telegram-bot-api");
 
 // Token de acceso de tu bot de Telegram
-const token = "6102270762:AAHR6S6oX4ilFnBBYFWXsKt17AzNnPgdYQI";
+const token = "";
 
 // Rutas de las imágenes que deseas enviar para cada día de la semana
 const imagenes = {
